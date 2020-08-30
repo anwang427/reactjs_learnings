@@ -1,3 +1,5 @@
+/* First project: create blog style posts */
+
 import React from 'react';
 import ReactDOM from 'react-dom';
 import CommentDetail from './CommentDetail'; //don't need to include .js extension
